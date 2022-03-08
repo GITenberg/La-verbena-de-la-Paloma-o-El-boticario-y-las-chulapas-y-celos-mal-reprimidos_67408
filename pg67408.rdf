@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+>
+  <pgterms:ebook rdf:about="ebooks/67408">
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67408.html.images">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N431f8e766d1f489db3f2b2089a824a13">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67408"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">126196</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T09:00:21.563104</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc508>Ramón Pajares Box (This file was produced from images generously made available by The Internet Archive/American Libraries)</pgterms:marc508>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67408/67408-0.txt">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T07:39:05</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/67408"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N1ed984d5c2074accbd5891ac178d2b36">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76585</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67408/67408-h/67408-h.htm">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N28200e789ef54352b588996741542469">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T07:39:05</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/67408"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131115</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:license rdf:resource="license"/>
+    <marcrel:lbt>
+      <pgterms:agent rdf:about="2009/agents/54261">
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1839</pgterms:birthdate>
+        <pgterms:alias>Vega, R. de la (Ricardo de la)</pgterms:alias>
+        <pgterms:name>Vega, Ricardo de la</pgterms:name>
+        <pgterms:alias>La Vega, Ricardo de</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://es.wikipedia.org/wiki/Ricardo_de_la_Vega"/>
+        <pgterms:alias>De la Vega, Ricardo</pgterms:alias>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1910</pgterms:deathdate>
+      </pgterms:agent>
+    </marcrel:lbt>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/67408/pg67408.cover.small.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/67408"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2455</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T09:00:23.549103</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nacf4ca16e6b941fda98df21f0ade7d6a">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc907>ES</pgterms:marc907>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N78f383921fae48d79c6a3b100e620506">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Zarzuelas -- Librettos</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67408/67408-h.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/67408"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90037</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na5aae631c06741bbbcaf4fff8f1a8d44">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nfed718a4a51a4ad2a12f2e6be7d41c20">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T07:39:07</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <pgterms:marc260>Spain :Biblioteca «Teatro Mundial»,1915.</pgterms:marc260>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67408.kindle.noimages">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N83d229d4f77c49b7b97b019b6c50feea">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T09:00:23.424112</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">329385</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67408"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/67408/pg67408.cover.medium.jpg">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T09:00:23.633098</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na508b42e72e64e17b07b59843b819649">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11218</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67408"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67408/67408-0.zip">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T07:39:07</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N674c5aa5984746658bb80e3cbb6c6389">
+            <rdf:value>application/octet-stream</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N5180b6deccec4cb58a910c1834af7198">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27847</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67408"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:title>La verbena de la Paloma; o, El boticario y las chulapas y celos mal reprimidos</dcterms:title>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N449445f3b27646449d6fe6a9808d8836">
+        <rdf:value>PQ</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67408.epub.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/67408"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">125507</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N897e1df7e07640d6a37ca217ffe7c85b">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T09:00:24.283167</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <marcrel:cmp>
+      <pgterms:agent rdf:about="2009/agents/54262">
+        <pgterms:alias>Hernández, Tomás Bretón y</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Tom%C3%A1s_Bret%C3%B3n"/>
+        <pgterms:webpage rdf:resource="https://es.wikipedia.org/wiki/Tom%C3%A1s_Bret%C3%B3n"/>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1923</pgterms:deathdate>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1850</pgterms:birthdate>
+        <pgterms:name>Bretón, Tomás</pgterms:name>
+      </pgterms:agent>
+    </marcrel:cmp>
+    <pgterms:marc906>1915</pgterms:marc906>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">238</pgterms:downloads>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67408.txt.utf-8">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T09:00:20.962087</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/67408"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N116aea9062fc44f5bcb2370669cfc610">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76585</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67408.rdf">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9cc18337741d4e3b91e08c439b1f6b28">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67408"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5949</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T09:00:25.420115</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N536fe581a8964127b337d379d18ca6ce">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">es</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <pgterms:marc904>https://archive.org/details/laverbenadelapal558bret</pgterms:marc904>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N991fd6a2102642ddb7eded3de8fa6ce1">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>ML</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <pgterms:marc905>20220130090841vega</pgterms:marc905>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67408.epub.noimages">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nf366935cadbb4edbb39d81c28125d436">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">98903</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67408"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T09:00:22.346101</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67408.kindle.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/67408"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ndd2f04f9c08e42ffa40eac404e4fec41">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-02-15T09:00:25.289132</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">382301</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-02-15</dcterms:issued>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+  </cc:Work>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Tom%C3%A1s_Bret%C3%B3n">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://es.wikipedia.org/wiki/Tom%C3%A1s_Bret%C3%B3n">
+    <dcterms:description>es.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://es.wikipedia.org/wiki/Ricardo_de_la_Vega">
+    <dcterms:description>es.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>

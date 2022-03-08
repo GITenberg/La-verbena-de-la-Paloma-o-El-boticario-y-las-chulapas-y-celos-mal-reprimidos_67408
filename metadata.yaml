@@ -1,0 +1,46 @@
+_repo: La-verbena-de-la-Paloma-o-El-boticario-y-las-chulapas-y-celos-mal-reprimidos_67408
+_version: 0.0.1
+contributor:
+  composer:
+    agent_name: Bretón, Tomás
+    alias: Hernández, Tomás Bretón y
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '54262'
+    url: http://www.gutenberg.org/2009/agents/54262
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Tom%C3%A1s_Bret%C3%B3n
+    - https://es.wikipedia.org/wiki/Tom%C3%A1s_Bret%C3%B3n
+  librettist:
+    agent_name: Vega, Ricardo de la
+    aliases:
+    - Vega, R. de la (Ricardo de la)
+    - La Vega, Ricardo de
+    - De la Vega, Ricardo
+    birthdate: 1839
+    deathdate: 1910
+    gutenberg_agent_id: '54261'
+    url: http://www.gutenberg.org/2009/agents/54261
+    wikipedia: https://es.wikipedia.org/wiki/Ricardo_de_la_Vega
+description: ''
+gutenberg_issued: '2022-02-15'
+identifiers:
+  gutenberg: '67408'
+language: es
+pgterms:marc904: https://archive.org/details/laverbenadelapal558bret
+pgterms:marc905: 20220130090841vega
+pgterms:marc906: '1915'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box (This file was produced from images generously
+  made available by The Internet Archive/American Libraries)
+publication_note: Spain :Biblioteca «Teatro Mundial»,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Zarzuelas -- Librettos'
+- !lcc 'ML'
+- GITenberg
+title: La verbena de la Paloma; o, El boticario y las chulapas y celos mal reprimidos
+url: http://www.gutenberg.org/ebooks/67408
